@@ -1,6 +1,6 @@
 {
 "companyName": "JERRY",
-"productName": "JERRY",
+"productName": "CUST_QuizGame_SchoolRights",
 "productVersion": "0.1",
 "dataUrl": "Web.data.unityweb",
 "wasmCodeUrl": "Web.wasm.code.unityweb",
